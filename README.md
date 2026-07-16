@@ -1,2 +1,2 @@
 # Hand-trackingrobot
-A robot that is controled via OpenCV 
+A robot controled by hand tracking via OpenCV that can pick up blocks and other items.
